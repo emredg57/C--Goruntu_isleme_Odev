@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe.config
+C:\Users\burak\source\repos\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe
+C:\Users\burak\source\repos\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.pdb
+C:\Users\burak\source\repos\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Form1.resources
+C:\Users\burak\source\repos\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Properties.Resources.resources
+C:\Users\burak\source\repos\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.exe
+C:\Users\burak\source\repos\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.pdb

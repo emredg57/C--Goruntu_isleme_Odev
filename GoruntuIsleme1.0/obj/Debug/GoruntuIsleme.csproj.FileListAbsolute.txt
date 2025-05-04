@@ -1,0 +1,64 @@
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe.config
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.pdb
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.AssemblyReference.cache
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.SuggestedBindingRedirects.cache
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Form1.resources
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Properties.Resources.resources
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.exe
+D:\GoruntuIsleme1.0\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.pdb
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe.config
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.pdb
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.AssemblyReference.cache
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.SuggestedBindingRedirects.cache
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Form1.resources
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Properties.Resources.resources
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.exe
+D:\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.pdb
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe.config
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.pdb
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.AssemblyReference.cache
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Form1.resources
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Properties.Resources.resources
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.exe
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0_birlestir (6)\GoruntuIsleme1.0_birlestir\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.pdb
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe.config
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.pdb
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.AssemblyReference.cache
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Form1.resources
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Properties.Resources.resources
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.exe
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.pdb
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe.config
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.pdb
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.AssemblyReference.cache
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Form1.resources
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Properties.Resources.resources
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.exe
+C:\Users\Eemre\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.pdb
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe.config
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.exe
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\bin\Debug\GoruntuIsleme1.0.pdb
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.AssemblyReference.cache
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Form1.resources
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1._0.Properties.Resources.resources
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.exe
+C:\Users\anilt\OneDrive\Desktop\GoruntuIsleme1.0 düzeltme\GoruntuIsleme1.0\GoruntuIsleme1.0\obj\Debug\GoruntuIsleme1.0.pdb
